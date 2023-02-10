@@ -54,9 +54,7 @@ I tillegg til å løse problemet, må dette prosjektet også oppfylle følgende 
 • Alle metodene, variablene, konstruktørene og klassene må ha gode definerte navn og skrive på engelsk.
 • Programmet må kunne håndtere feil inndata fra brukeren og ha et brukervennlig grensesnitt.
 
-### Avgrensninger
-
-### Begreper/Ordliste
+### *Begreper/Ordliste*
 
 | Begrep (norsk)         | Begrep (Engelsk)             | Betyding/beskrivelse |
 | :---                   |     :---:                    |          :---: |
@@ -76,11 +74,12 @@ I tillegg til å løse problemet, må dette prosjektet også oppfylle følgende 
 | Datastruktur           |  Data structure              | Er en måte og organisere data på i en datamaskin.   |
 | Feilsøking             | Debugging                    | Used for checking the programs functionalityand test it.     |
 
-### Rapportens Oppbygging
+### *Rapportens Oppbygging*
 
 Hovedinnholdet i rapporten kan deles inn i to hoveddeler:
 
 • Teori og metodikk
+  
 • Resultater og diskusjon
 
 Den første delen vil dekke den underliggende teorien og designprinsippene for løsningen, inkludert en diskusjon av objektorientert programmering og algoritmer. Den andre delen vil presentere det ferdige produktet av programvaren, inkludert en vurdering av dets robusthet og potensial for fremtidig utvikling. Kandidaten vil deretter reflektere over sitt arbeid og erfaringer gjennom hele prosjektet, som vil bli inkludert i rapportens konklusjon.
